@@ -3,5 +3,29 @@
     "languages": [
         "en"
     ],
-	  "description": "external_experiment_3 generated from template"
+    "description": "external_experiment_3 generated from template",
+    "packageFilename": "external_experiment_3.kmp",
+
+
+    "id": "external_experiment_3",
+    "name": "External Experiment 3",
+    "authorName": "SIL",
+    "lastModifiedDate": "2012-06-01T15:15:37Z",
+    "links": [],
+    "encodings": [
+        "unicode"
+    ],
+    "packageIncludes": [
+        "fonts",
+        "documentation",
+        "visualKeyboard",
+        "welcome"
+    ],
+    "version": "1.0",
+    "minKeymanVersion": "10.0",
+    "platformSupport": {
+        "windows": "full",
+        "desktopWeb": "full",
+        "macos": "full"
+    }
 }
