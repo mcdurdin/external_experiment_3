@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>0</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\external_experiment_3.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_262248af2757d24b4c11e3a83251477b</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\source\external_experiment_3.kmn</FullPath>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_8f80f4eed41321d640c025faee4456c2</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\source\external_experiment_3.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3ad0289dc75590302ba4fe2e9073e34d</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\external_experiment_3.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_525dd619b3ebea609eb32ecf2d5d8ae0</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\source\..\build\external_experiment_3.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1d4a5cdb5a712314c5aea2590b8b47cd</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\source\..\build\external_experiment_3.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ce1b0487bef6d37d713a2379f31574b8</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\source\..\build\external_experiment_3.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\mcdurdin\Documents\Keyman Developer\Projects\external_experiment_3\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU/>
+</KeymanDeveloperProjectUser>
